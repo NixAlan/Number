@@ -1,0 +1,7 @@
+C:\Users\Alan nix\source\repos\Numberguessalan\Numberguessalan\bin\Debug\Numberguessalan.exe.config
+C:\Users\Alan nix\source\repos\Numberguessalan\Numberguessalan\bin\Debug\Numberguessalan.exe
+C:\Users\Alan nix\source\repos\Numberguessalan\Numberguessalan\bin\Debug\Numberguessalan.pdb
+C:\Users\Alan nix\source\repos\Numberguessalan\Numberguessalan\obj\Debug\Numberguessalan.csprojAssemblyReference.cache
+C:\Users\Alan nix\source\repos\Numberguessalan\Numberguessalan\obj\Debug\Numberguessalan.csproj.CoreCompileInputs.cache
+C:\Users\Alan nix\source\repos\Numberguessalan\Numberguessalan\obj\Debug\Numberguessalan.exe
+C:\Users\Alan nix\source\repos\Numberguessalan\Numberguessalan\obj\Debug\Numberguessalan.pdb
